@@ -39,3 +39,9 @@ Make **all** skills in this repository available across **every project** you op
 * **Windows (PowerShell):**
   ```powershell
   git clone https://github.com/<your-org>/boomi-custom-skills.git "$HOME\.gemini\boomi-custom-skills"
+
+### Option 2: Clone as standalone skill
+Copy the below prompt to your coding agent
+```text
+Please clone this repo into my agent skills https://github.com/Johnwickkomarthi/boomi-custom-skills
+
