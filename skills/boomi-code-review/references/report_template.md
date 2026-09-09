@@ -104,5 +104,5 @@ Use this markdown template to generate the formal peer-review report for any rev
 | **Developer** | `{{DEVELOPER_NAME}}` | `{{YYYY-MM-DD}}` | Submitted |
 | **Review Committee** | `{{REVIEWER_NAME}}` | `{{YYYY-MM-DD}}` | `{{VERDICT}}` |
 
-_Psiog Integrations · Boomi Code Review Framework_
+_Boomi Code Review Framework_
 ```
