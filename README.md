@@ -29,7 +29,7 @@ Every skill in this repository includes native adapters for major AI-assisted en
 
 ---
 
-## 🚀 Installation Guide for Peers
+## 🚀 Installation Guide
 
 Choose how you want to install this collection:
 
